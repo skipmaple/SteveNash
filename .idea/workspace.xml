@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f7fafa-7ec4-46d6-bddf-b6cfcf90a5a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1ZcfShm0dpeHn4liSHJi8xsIwmp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.maximum-subarray_test.go (1)">
+    <configuration name="Test_Problem0053 in maximum-subarray_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SteveNash" />
+      <working_directory value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray/maximum-subarray_test.go" />
+      <pattern value="^Test_Problem0053$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum-subarray_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SteveNash" />
+      <working_directory value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray" />
+      <filePath value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray/maximum-subarray_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum-subarray_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SteveNash" />
+      <working_directory value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray" />
+      <filePath value="$PROJECT_DIR$/Algorithms/0053.maximum-subarray/maximum-subarray_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.maximum-subarray_test.go (1)" />
+        <item itemvalue="Go Test.Test_Problem0053 in maximum-subarray_test.go" />
+        <item itemvalue="Go Test.maximum-subarray_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="924" y="355" width="658" height="754" key="#maximum-subarray_test.go" timestamp="1585145992545">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state x="924" y="355" width="658" height="754" key="#maximum-subarray_test.go/0.27.2517.1413@0.27.2517.1413" timestamp="1585145992545" />
+    <state x="924" y="355" width="658" height="754" key="#maximum-subarray_test.go_(1)" timestamp="1585146062129">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state x="924" y="355" width="658" height="754" key="#maximum-subarray_test.go_(1)/0.27.2517.1413@0.27.2517.1413" timestamp="1585146062129" />
+    <state x="990" y="467" width="515" height="530" key="EnvironmentVariablesDialog" timestamp="1585145981924">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state x="990" y="467" width="515" height="530" key="EnvironmentVariablesDialog/0.27.2517.1413@0.27.2517.1413" timestamp="1585145981924" />
+    <state x="1036" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585146029715">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state x="1036" y="490" width="424" height="484" key="FileChooserDialogImpl/0.27.2517.1413@0.27.2517.1413" timestamp="1585146029715" />
+    <state width="2463" height="344" key="GridCell.Tab.0.bottom" timestamp="1585146004783">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state width="2463" height="344" key="GridCell.Tab.0.bottom/0.27.2517.1413@0.27.2517.1413" timestamp="1585146004783" />
+    <state width="2463" height="344" key="GridCell.Tab.0.center" timestamp="1585146004782">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state width="2463" height="344" key="GridCell.Tab.0.center/0.27.2517.1413@0.27.2517.1413" timestamp="1585146004782" />
+    <state width="2463" height="344" key="GridCell.Tab.0.left" timestamp="1585146004781">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state width="2463" height="344" key="GridCell.Tab.0.left/0.27.2517.1413@0.27.2517.1413" timestamp="1585146004781" />
+    <state width="2463" height="344" key="GridCell.Tab.0.right" timestamp="1585146004783">
+      <screen x="0" y="27" width="2517" height="1413" />
+    </state>
+    <state width="2463" height="344" key="GridCell.Tab.0.right/0.27.2517.1413@0.27.2517.1413" timestamp="1585146004783" />
+  </component>
+</project>
