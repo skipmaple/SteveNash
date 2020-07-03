@@ -1,7 +1,5 @@
 # SteveNash
 
-这里记录了刷leetcode的进度和日常
+这里记录了刷leetcode的进度
 
-计划一天刷两道
-
-欢迎各位小伙伴监督指正～ :handshake: 
+给自己加个油
